@@ -1,7 +1,4 @@
 package org.example.springrestclient.model;
 
-
-
-
-public record CharacterModel() {
+public class CharacterResponseModel {
 }
