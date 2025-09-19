@@ -2,6 +2,7 @@ package org.example.springrestclient.service;
 
 
 import org.example.springrestclient.model.CharacterModel;
+import org.example.springrestclient.model.CharacterResponseModel;
 
 import java.util.List;
 
